@@ -1,0 +1,7 @@
+[project]
+name = "my_etl_pipeline"
+version = "0.1.0"
+description = "A sample ETL pipeline."
+
+[tool.setuptools.packages.find]
+where = ["src"]
