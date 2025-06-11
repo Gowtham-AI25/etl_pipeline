@@ -1,0 +1,8 @@
+# create vartiual env in project
+> poetry env use python
+
+# How to actiavte the venv
+> "$(poetry env info --path)\Scripts\Activate.ps1"
+
+# To check which python is using 
+> python -c "import sys; print(sys.executable)"
