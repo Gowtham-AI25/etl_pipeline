@@ -1,7 +1,17 @@
 [project]
-name = "my_etl_pipeline"
+name = "openalex-etl"
 version = "0.1.0"
-description = "A sample ETL pipeline."
+description = "This project is build to extarct and clean and load the openalex finance papers metadata to database for usage and analysis"
+authors = [
+    {name = "Gowtham",email = "gowthamgoli02@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "pandas (>=2.3.0,<3.0.0)"
+]
 
-[tool.setuptools.packages.find]
-where = ["src"]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
