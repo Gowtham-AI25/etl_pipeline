@@ -1,0 +1,3718 @@
+{
+    "entries": [
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-27/part_000.gz",
+            "meta": {
+                "content_length": 66214,
+                "record_count": 686
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-26/part_000.gz",
+            "meta": {
+                "content_length": 888051,
+                "record_count": 5781
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-11/part_000.gz",
+            "meta": {
+                "content_length": 504709,
+                "record_count": 4716
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-21/part_000.gz",
+            "meta": {
+                "content_length": 1661962,
+                "record_count": 22310
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-11/part_000.gz",
+            "meta": {
+                "content_length": 247635,
+                "record_count": 1670
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-19/part_000.gz",
+            "meta": {
+                "content_length": 703975,
+                "record_count": 6853
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-09/part_000.gz",
+            "meta": {
+                "content_length": 122404415,
+                "record_count": 1642848
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-06/part_000.gz",
+            "meta": {
+                "content_length": 58628,
+                "record_count": 618
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-03/part_000.gz",
+            "meta": {
+                "content_length": 200047,
+                "record_count": 1729
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-08/part_000.gz",
+            "meta": {
+                "content_length": 755775,
+                "record_count": 3003
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-07-17/part_000.gz",
+            "meta": {
+                "content_length": 510,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-06/part_000.gz",
+            "meta": {
+                "content_length": 738074,
+                "record_count": 7774
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-12/part_000.gz",
+            "meta": {
+                "content_length": 560582,
+                "record_count": 4158
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-18/part_000.gz",
+            "meta": {
+                "content_length": 1396788,
+                "record_count": 13241
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-08/part_000.gz",
+            "meta": {
+                "content_length": 1115982,
+                "record_count": 10635
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-20/part_000.gz",
+            "meta": {
+                "content_length": 192175729,
+                "record_count": 540362
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-27/part_000.gz",
+            "meta": {
+                "content_length": 370381,
+                "record_count": 3957
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-10/part_000.gz",
+            "meta": {
+                "content_length": 1255956,
+                "record_count": 10255
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-07/part_000.gz",
+            "meta": {
+                "content_length": 701038,
+                "record_count": 6542
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-25/part_003.gz",
+            "meta": {
+                "content_length": 420517262,
+                "record_count": 327822
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-25/part_007.gz",
+            "meta": {
+                "content_length": 271836293,
+                "record_count": 650054
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-25/part_006.gz",
+            "meta": {
+                "content_length": 426850574,
+                "record_count": 849223
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-25/part_004.gz",
+            "meta": {
+                "content_length": 426139927,
+                "record_count": 432007
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-25/part_005.gz",
+            "meta": {
+                "content_length": 431865420,
+                "record_count": 579586
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-25/part_001.gz",
+            "meta": {
+                "content_length": 426380299,
+                "record_count": 217842
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-25/part_002.gz",
+            "meta": {
+                "content_length": 419780008,
+                "record_count": 257724
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-25/part_000.gz",
+            "meta": {
+                "content_length": 436795460,
+                "record_count": 195265
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-27/part_000.gz",
+            "meta": {
+                "content_length": 3622,
+                "record_count": 13
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-10/part_000.gz",
+            "meta": {
+                "content_length": 2810512,
+                "record_count": 38019
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-23/part_000.gz",
+            "meta": {
+                "content_length": 876668,
+                "record_count": 8521
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-24/part_000.gz",
+            "meta": {
+                "content_length": 18856570,
+                "record_count": 73079
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-24/part_000.gz",
+            "meta": {
+                "content_length": 34563285,
+                "record_count": 122347
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-16/part_000.gz",
+            "meta": {
+                "content_length": 130609,
+                "record_count": 1281
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-07-21/part_000.gz",
+            "meta": {
+                "content_length": 40641,
+                "record_count": 301
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-22/part_000.gz",
+            "meta": {
+                "content_length": 80631,
+                "record_count": 731
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-21/part_000.gz",
+            "meta": {
+                "content_length": 683025,
+                "record_count": 3892
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-27/part_003.gz",
+            "meta": {
+                "content_length": 218168039,
+                "record_count": 251472
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-27/part_001.gz",
+            "meta": {
+                "content_length": 423712300,
+                "record_count": 225956
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-27/part_002.gz",
+            "meta": {
+                "content_length": 419302492,
+                "record_count": 282881
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-27/part_000.gz",
+            "meta": {
+                "content_length": 433895349,
+                "record_count": 201690
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-22/part_000.gz",
+            "meta": {
+                "content_length": 25731507,
+                "record_count": 149040
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-09/part_000.gz",
+            "meta": {
+                "content_length": 944125,
+                "record_count": 8798
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-23/part_000.gz",
+            "meta": {
+                "content_length": 40162791,
+                "record_count": 156392
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-09/part_000.gz",
+            "meta": {
+                "content_length": 228480,
+                "record_count": 1984
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-18/part_000.gz",
+            "meta": {
+                "content_length": 3326,
+                "record_count": 9
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-17/part_000.gz",
+            "meta": {
+                "content_length": 1072597,
+                "record_count": 10535
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-06/part_000.gz",
+            "meta": {
+                "content_length": 763609,
+                "record_count": 10544
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-30/part_000.gz",
+            "meta": {
+                "content_length": 39629,
+                "record_count": 564
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-28/part_000.gz",
+            "meta": {
+                "content_length": 5107,
+                "record_count": 16
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-03/part_000.gz",
+            "meta": {
+                "content_length": 234076,
+                "record_count": 2384
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-06/part_000.gz",
+            "meta": {
+                "content_length": 1039754,
+                "record_count": 3405
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-19/part_000.gz",
+            "meta": {
+                "content_length": 2534422,
+                "record_count": 31863
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_013.gz",
+            "meta": {
+                "content_length": 382529373,
+                "record_count": 977277
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_003.gz",
+            "meta": {
+                "content_length": 416597121,
+                "record_count": 304294
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_007.gz",
+            "meta": {
+                "content_length": 431260186,
+                "record_count": 534772
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_010.gz",
+            "meta": {
+                "content_length": 421997653,
+                "record_count": 776778
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_006.gz",
+            "meta": {
+                "content_length": 428165370,
+                "record_count": 474711
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_008.gz",
+            "meta": {
+                "content_length": 431186447,
+                "record_count": 602871
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_014.gz",
+            "meta": {
+                "content_length": 156440862,
+                "record_count": 423541
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_004.gz",
+            "meta": {
+                "content_length": 420235493,
+                "record_count": 358334
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_005.gz",
+            "meta": {
+                "content_length": 424114994,
+                "record_count": 415740
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_001.gz",
+            "meta": {
+                "content_length": 422940172,
+                "record_count": 224455
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_002.gz",
+            "meta": {
+                "content_length": 417406949,
+                "record_count": 258502
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_000.gz",
+            "meta": {
+                "content_length": 435241148,
+                "record_count": 198297
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_009.gz",
+            "meta": {
+                "content_length": 428050106,
+                "record_count": 681066
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_011.gz",
+            "meta": {
+                "content_length": 425084174,
+                "record_count": 961881
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-21/part_012.gz",
+            "meta": {
+                "content_length": 425094521,
+                "record_count": 961820
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-08/part_000.gz",
+            "meta": {
+                "content_length": 1860,
+                "record_count": 4
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-05/part_000.gz",
+            "meta": {
+                "content_length": 114337,
+                "record_count": 871
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-05/part_000.gz",
+            "meta": {
+                "content_length": 2210119,
+                "record_count": 7600
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-10/part_000.gz",
+            "meta": {
+                "content_length": 113673136,
+                "record_count": 1521960
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-22/part_000.gz",
+            "meta": {
+                "content_length": 164973845,
+                "record_count": 462442
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-01/part_000.gz",
+            "meta": {
+                "content_length": 2597014,
+                "record_count": 5368
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-27/part_000.gz",
+            "meta": {
+                "content_length": 587555,
+                "record_count": 5529
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-08/part_000.gz",
+            "meta": {
+                "content_length": 243816,
+                "record_count": 1331
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-13/part_000.gz",
+            "meta": {
+                "content_length": 1272282,
+                "record_count": 18125
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-17/part_000.gz",
+            "meta": {
+                "content_length": 61792462,
+                "record_count": 222829
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-29/part_000.gz",
+            "meta": {
+                "content_length": 190624,
+                "record_count": 1759
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-29/part_000.gz",
+            "meta": {
+                "content_length": 1844,
+                "record_count": 9
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-11-09/part_000.gz",
+            "meta": {
+                "content_length": 354,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-06/part_000.gz",
+            "meta": {
+                "content_length": 96773,
+                "record_count": 860
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-21/part_000.gz",
+            "meta": {
+                "content_length": 63452363,
+                "record_count": 165721
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-21/part_000.gz",
+            "meta": {
+                "content_length": 772448,
+                "record_count": 7751
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-11/part_000.gz",
+            "meta": {
+                "content_length": 694581,
+                "record_count": 6721
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-27/part_000.gz",
+            "meta": {
+                "content_length": 2328035,
+                "record_count": 7297
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-20/part_000.gz",
+            "meta": {
+                "content_length": 750888,
+                "record_count": 7130
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-12/part_000.gz",
+            "meta": {
+                "content_length": 691565,
+                "record_count": 2299
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-02/part_000.gz",
+            "meta": {
+                "content_length": 917356,
+                "record_count": 5059
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-09/part_000.gz",
+            "meta": {
+                "content_length": 2966349,
+                "record_count": 40447
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-20/part_000.gz",
+            "meta": {
+                "content_length": 734130,
+                "record_count": 7331
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-28/part_000.gz",
+            "meta": {
+                "content_length": 1077275,
+                "record_count": 13570
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-07-14/part_000.gz",
+            "meta": {
+                "content_length": 5044,
+                "record_count": 18
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-03/part_000.gz",
+            "meta": {
+                "content_length": 16014948,
+                "record_count": 70849
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-08/part_000.gz",
+            "meta": {
+                "content_length": 2073762,
+                "record_count": 20156
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-27/part_000.gz",
+            "meta": {
+                "content_length": 260743,
+                "record_count": 2466
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-21/part_000.gz",
+            "meta": {
+                "content_length": 120828,
+                "record_count": 1537
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-22/part_000.gz",
+            "meta": {
+                "content_length": 74562767,
+                "record_count": 262593
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-28/part_000.gz",
+            "meta": {
+                "content_length": 281356,
+                "record_count": 1496
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-01/part_000.gz",
+            "meta": {
+                "content_length": 164790,
+                "record_count": 1678
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-19/part_000.gz",
+            "meta": {
+                "content_length": 1788305,
+                "record_count": 25949
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-19/part_000.gz",
+            "meta": {
+                "content_length": 438688,
+                "record_count": 3378
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_003.gz",
+            "meta": {
+                "content_length": 425732206,
+                "record_count": 422272
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_007.gz",
+            "meta": {
+                "content_length": 432318601,
+                "record_count": 718463
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_010.gz",
+            "meta": {
+                "content_length": 425086663,
+                "record_count": 963115
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_006.gz",
+            "meta": {
+                "content_length": 434510974,
+                "record_count": 627386
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_008.gz",
+            "meta": {
+                "content_length": 424702642,
+                "record_count": 857927
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_004.gz",
+            "meta": {
+                "content_length": 430283230,
+                "record_count": 486978
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_005.gz",
+            "meta": {
+                "content_length": 433700635,
+                "record_count": 551475
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_001.gz",
+            "meta": {
+                "content_length": 417890241,
+                "record_count": 284885
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_002.gz",
+            "meta": {
+                "content_length": 420932110,
+                "record_count": 354971
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_000.gz",
+            "meta": {
+                "content_length": 427022120,
+                "record_count": 218154
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_009.gz",
+            "meta": {
+                "content_length": 425048345,
+                "record_count": 963137
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-20/part_011.gz",
+            "meta": {
+                "content_length": 342447756,
+                "record_count": 942428
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-02/part_000.gz",
+            "meta": {
+                "content_length": 13036,
+                "record_count": 80
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-14/part_000.gz",
+            "meta": {
+                "content_length": 513717,
+                "record_count": 3610
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-24/part_000.gz",
+            "meta": {
+                "content_length": 451852,
+                "record_count": 4466
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-26/part_000.gz",
+            "meta": {
+                "content_length": 435704,
+                "record_count": 4994
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-31/part_000.gz",
+            "meta": {
+                "content_length": 31924,
+                "record_count": 214
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-10/part_000.gz",
+            "meta": {
+                "content_length": 184407,
+                "record_count": 1545
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-26/part_000.gz",
+            "meta": {
+                "content_length": 1855387,
+                "record_count": 5176
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-09/part_000.gz",
+            "meta": {
+                "content_length": 1503653,
+                "record_count": 20401
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-26/part_000.gz",
+            "meta": {
+                "content_length": 140317,
+                "record_count": 1546
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-16/part_000.gz",
+            "meta": {
+                "content_length": 525730,
+                "record_count": 5021
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-14/part_000.gz",
+            "meta": {
+                "content_length": 110964044,
+                "record_count": 1505900
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-11/part_000.gz",
+            "meta": {
+                "content_length": 2373698,
+                "record_count": 22663
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-15/part_000.gz",
+            "meta": {
+                "content_length": 31908278,
+                "record_count": 440576
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-22/part_000.gz",
+            "meta": {
+                "content_length": 765232,
+                "record_count": 8241
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-23/part_000.gz",
+            "meta": {
+                "content_length": 2791835,
+                "record_count": 31863
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-30/part_000.gz",
+            "meta": {
+                "content_length": 815,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-16/part_000.gz",
+            "meta": {
+                "content_length": 419461,
+                "record_count": 3914
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-01/part_000.gz",
+            "meta": {
+                "content_length": 942448,
+                "record_count": 4849
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-15/part_000.gz",
+            "meta": {
+                "content_length": 74752,
+                "record_count": 727
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-08/part_000.gz",
+            "meta": {
+                "content_length": 102229,
+                "record_count": 748
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-04/part_000.gz",
+            "meta": {
+                "content_length": 1950652,
+                "record_count": 30750
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-21/part_000.gz",
+            "meta": {
+                "content_length": 719609,
+                "record_count": 6595
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-01/part_000.gz",
+            "meta": {
+                "content_length": 468762,
+                "record_count": 10435
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-30/part_000.gz",
+            "meta": {
+                "content_length": 575169,
+                "record_count": 5195
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-09/part_000.gz",
+            "meta": {
+                "content_length": 34449348,
+                "record_count": 164969
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_013.gz",
+            "meta": {
+                "content_length": 425025411,
+                "record_count": 961413
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_003.gz",
+            "meta": {
+                "content_length": 419149309,
+                "record_count": 280939
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_007.gz",
+            "meta": {
+                "content_length": 430428950,
+                "record_count": 490178
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_010.gz",
+            "meta": {
+                "content_length": 432357288,
+                "record_count": 699216
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_006.gz",
+            "meta": {
+                "content_length": 426903383,
+                "record_count": 434773
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_008.gz",
+            "meta": {
+                "content_length": 433209502,
+                "record_count": 548656
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_014.gz",
+            "meta": {
+                "content_length": 408466759,
+                "record_count": 959920
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_004.gz",
+            "meta": {
+                "content_length": 420541915,
+                "record_count": 328369
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_005.gz",
+            "meta": {
+                "content_length": 423631654,
+                "record_count": 380546
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_001.gz",
+            "meta": {
+                "content_length": 427026807,
+                "record_count": 214466
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_002.gz",
+            "meta": {
+                "content_length": 420899908,
+                "record_count": 242639
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_000.gz",
+            "meta": {
+                "content_length": 436984061,
+                "record_count": 194918
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_009.gz",
+            "meta": {
+                "content_length": 434466708,
+                "record_count": 617768
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_011.gz",
+            "meta": {
+                "content_length": 426201092,
+                "record_count": 809996
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_012.gz",
+            "meta": {
+                "content_length": 425023258,
+                "record_count": 962217
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-24/part_015.gz",
+            "meta": {
+                "content_length": 124098718,
+                "record_count": 401847
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-17/part_000.gz",
+            "meta": {
+                "content_length": 371377,
+                "record_count": 4294
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-30/part_000.gz",
+            "meta": {
+                "content_length": 132202,
+                "record_count": 1295
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-05/part_000.gz",
+            "meta": {
+                "content_length": 277022,
+                "record_count": 3377
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-29/part_000.gz",
+            "meta": {
+                "content_length": 488696,
+                "record_count": 1711
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-17/part_000.gz",
+            "meta": {
+                "content_length": 25924503,
+                "record_count": 116956
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-29/part_000.gz",
+            "meta": {
+                "content_length": 1074267,
+                "record_count": 17913
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-29/part_000.gz",
+            "meta": {
+                "content_length": 45840,
+                "record_count": 435
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-30/part_000.gz",
+            "meta": {
+                "content_length": 1500,
+                "record_count": 7
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-17/part_000.gz",
+            "meta": {
+                "content_length": 1155982,
+                "record_count": 13237
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-06/part_000.gz",
+            "meta": {
+                "content_length": 1385447,
+                "record_count": 18409
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-23/part_000.gz",
+            "meta": {
+                "content_length": 74392053,
+                "record_count": 267303
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-18/part_000.gz",
+            "meta": {
+                "content_length": 522975,
+                "record_count": 3190
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-18/part_000.gz",
+            "meta": {
+                "content_length": 29771810,
+                "record_count": 133991
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-11/part_000.gz",
+            "meta": {
+                "content_length": 961189,
+                "record_count": 4151
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-05/part_000.gz",
+            "meta": {
+                "content_length": 21213075,
+                "record_count": 103529
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-28/part_000.gz",
+            "meta": {
+                "content_length": 22557348,
+                "record_count": 140760
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-31/part_000.gz",
+            "meta": {
+                "content_length": 12729,
+                "record_count": 103
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-30/part_000.gz",
+            "meta": {
+                "content_length": 1065058,
+                "record_count": 10646
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-18/part_000.gz",
+            "meta": {
+                "content_length": 40241468,
+                "record_count": 155304
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-19/part_000.gz",
+            "meta": {
+                "content_length": 602820,
+                "record_count": 3376
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-03/part_000.gz",
+            "meta": {
+                "content_length": 713545,
+                "record_count": 9348
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-19/part_000.gz",
+            "meta": {
+                "content_length": 38030891,
+                "record_count": 147325
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-04/part_000.gz",
+            "meta": {
+                "content_length": 455888,
+                "record_count": 4885
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-02/part_000.gz",
+            "meta": {
+                "content_length": 195740,
+                "record_count": 1999
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-26/part_000.gz",
+            "meta": {
+                "content_length": 231240,
+                "record_count": 2743
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-06/part_000.gz",
+            "meta": {
+                "content_length": 285903,
+                "record_count": 2339
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-25/part_000.gz",
+            "meta": {
+                "content_length": 614021,
+                "record_count": 5987
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-26/part_000.gz",
+            "meta": {
+                "content_length": 1213396,
+                "record_count": 17200
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-13/part_000.gz",
+            "meta": {
+                "content_length": 26443255,
+                "record_count": 126699
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-26/part_000.gz",
+            "meta": {
+                "content_length": 19254081,
+                "record_count": 76547
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-05/part_000.gz",
+            "meta": {
+                "content_length": 250078,
+                "record_count": 4216
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-30/part_000.gz",
+            "meta": {
+                "content_length": 729828,
+                "record_count": 11173
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-10/part_000.gz",
+            "meta": {
+                "content_length": 2236396,
+                "record_count": 21286
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-14/part_000.gz",
+            "meta": {
+                "content_length": 144778,
+                "record_count": 995
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-28/part_000.gz",
+            "meta": {
+                "content_length": 979582,
+                "record_count": 4508
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-30/part_000.gz",
+            "meta": {
+                "content_length": 96931,
+                "record_count": 673
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-19/part_003.gz",
+            "meta": {
+                "content_length": 420222422,
+                "record_count": 969299
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-19/part_004.gz",
+            "meta": {
+                "content_length": 53246915,
+                "record_count": 194544
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-19/part_001.gz",
+            "meta": {
+                "content_length": 433088022,
+                "record_count": 529219
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-19/part_002.gz",
+            "meta": {
+                "content_length": 430746307,
+                "record_count": 764935
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-19/part_000.gz",
+            "meta": {
+                "content_length": 421925424,
+                "record_count": 338931
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-14/part_000.gz",
+            "meta": {
+                "content_length": 1765,
+                "record_count": 13
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-08/part_000.gz",
+            "meta": {
+                "content_length": 197018595,
+                "record_count": 2662157
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-25/part_000.gz",
+            "meta": {
+                "content_length": 30629054,
+                "record_count": 150395
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-22/part_000.gz",
+            "meta": {
+                "content_length": 43072206,
+                "record_count": 167682
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-21/part_000.gz",
+            "meta": {
+                "content_length": 5123274,
+                "record_count": 61311
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-09/part_000.gz",
+            "meta": {
+                "content_length": 326593,
+                "record_count": 2676
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-05/part_000.gz",
+            "meta": {
+                "content_length": 1121646,
+                "record_count": 15117
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-20/part_000.gz",
+            "meta": {
+                "content_length": 832284,
+                "record_count": 10443
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-01/part_000.gz",
+            "meta": {
+                "content_length": 494693,
+                "record_count": 4461
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-01/part_000.gz",
+            "meta": {
+                "content_length": 239354,
+                "record_count": 2331
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-13/part_000.gz",
+            "meta": {
+                "content_length": 691461,
+                "record_count": 7124
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-29/part_000.gz",
+            "meta": {
+                "content_length": 224256,
+                "record_count": 3247
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-21/part_000.gz",
+            "meta": {
+                "content_length": 39217064,
+                "record_count": 150630
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-17/part_000.gz",
+            "meta": {
+                "content_length": 654867,
+                "record_count": 6388
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-28/part_000.gz",
+            "meta": {
+                "content_length": 3404449,
+                "record_count": 15425
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-23/part_000.gz",
+            "meta": {
+                "content_length": 1567183,
+                "record_count": 21360
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-13/part_000.gz",
+            "meta": {
+                "content_length": 117771640,
+                "record_count": 1585375
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-29/part_000.gz",
+            "meta": {
+                "content_length": 11075576,
+                "record_count": 61326
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-09/part_000.gz",
+            "meta": {
+                "content_length": 713199,
+                "record_count": 2824
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-12/part_000.gz",
+            "meta": {
+                "content_length": 124852434,
+                "record_count": 1673404
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-02/part_000.gz",
+            "meta": {
+                "content_length": 49620,
+                "record_count": 414
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-02/part_000.gz",
+            "meta": {
+                "content_length": 244253,
+                "record_count": 2524
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-15/part_000.gz",
+            "meta": {
+                "content_length": 32652376,
+                "record_count": 118854
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-14/part_000.gz",
+            "meta": {
+                "content_length": 546494,
+                "record_count": 5335
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-22/part_000.gz",
+            "meta": {
+                "content_length": 1890119,
+                "record_count": 25712
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-12/part_000.gz",
+            "meta": {
+                "content_length": 558346,
+                "record_count": 5227
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-20/part_000.gz",
+            "meta": {
+                "content_length": 157233,
+                "record_count": 1705
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-30/part_000.gz",
+            "meta": {
+                "content_length": 356673,
+                "record_count": 3279
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-11/part_000.gz",
+            "meta": {
+                "content_length": 944835,
+                "record_count": 8613
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-16/part_000.gz",
+            "meta": {
+                "content_length": 24162009,
+                "record_count": 108250
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-29/part_000.gz",
+            "meta": {
+                "content_length": 3043504,
+                "record_count": 7586
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-20/part_000.gz",
+            "meta": {
+                "content_length": 39965370,
+                "record_count": 219125
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-23/part_000.gz",
+            "meta": {
+                "content_length": 695537,
+                "record_count": 6575
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-27/part_000.gz",
+            "meta": {
+                "content_length": 22589851,
+                "record_count": 125613
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-07-02/part_000.gz",
+            "meta": {
+                "content_length": 1010,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-03/part_000.gz",
+            "meta": {
+                "content_length": 328103,
+                "record_count": 2063
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-11/part_000.gz",
+            "meta": {
+                "content_length": 2768687,
+                "record_count": 40550
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-30/part_000.gz",
+            "meta": {
+                "content_length": 10225695,
+                "record_count": 57300
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-23/part_000.gz",
+            "meta": {
+                "content_length": 117817,
+                "record_count": 1205
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_013.gz",
+            "meta": {
+                "content_length": 398015917,
+                "record_count": 931010
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_003.gz",
+            "meta": {
+                "content_length": 414935587,
+                "record_count": 258682
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_007.gz",
+            "meta": {
+                "content_length": 424759541,
+                "record_count": 465465
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_010.gz",
+            "meta": {
+                "content_length": 430781814,
+                "record_count": 711621
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_006.gz",
+            "meta": {
+                "content_length": 420021606,
+                "record_count": 405210
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_008.gz",
+            "meta": {
+                "content_length": 429564129,
+                "record_count": 532499
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_014.gz",
+            "meta": {
+                "content_length": 40875047,
+                "record_count": 159581
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_004.gz",
+            "meta": {
+                "content_length": 414264797,
+                "record_count": 299081
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_005.gz",
+            "meta": {
+                "content_length": 416752726,
+                "record_count": 348598
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_001.gz",
+            "meta": {
+                "content_length": 424958112,
+                "record_count": 209422
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_002.gz",
+            "meta": {
+                "content_length": 418499341,
+                "record_count": 229367
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_000.gz",
+            "meta": {
+                "content_length": 434148710,
+                "record_count": 194268
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_009.gz",
+            "meta": {
+                "content_length": 431754118,
+                "record_count": 611762
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_011.gz",
+            "meta": {
+                "content_length": 422558101,
+                "record_count": 885004
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-22/part_012.gz",
+            "meta": {
+                "content_length": 425366149,
+                "record_count": 961831
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-09/part_000.gz",
+            "meta": {
+                "content_length": 222156,
+                "record_count": 3404
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-05/part_000.gz",
+            "meta": {
+                "content_length": 345957,
+                "record_count": 2980
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-11-01/part_000.gz",
+            "meta": {
+                "content_length": 2505,
+                "record_count": 19
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-11/part_000.gz",
+            "meta": {
+                "content_length": 119168,
+                "record_count": 1051
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-12/part_000.gz",
+            "meta": {
+                "content_length": 894818,
+                "record_count": 7017
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-01/part_000.gz",
+            "meta": {
+                "content_length": 261248,
+                "record_count": 3374
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-24/part_000.gz",
+            "meta": {
+                "content_length": 319329,
+                "record_count": 2945
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-10/part_000.gz",
+            "meta": {
+                "content_length": 217642,
+                "record_count": 2486
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-22/part_000.gz",
+            "meta": {
+                "content_length": 745958,
+                "record_count": 7064
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-18/part_000.gz",
+            "meta": {
+                "content_length": 200087,
+                "record_count": 1681
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-31/part_000.gz",
+            "meta": {
+                "content_length": 1100,
+                "record_count": 4
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-24/part_000.gz",
+            "meta": {
+                "content_length": 2090129,
+                "record_count": 28636
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-16/part_000.gz",
+            "meta": {
+                "content_length": 6902954,
+                "record_count": 33214
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-10/part_000.gz",
+            "meta": {
+                "content_length": 952034,
+                "record_count": 9035
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-26/part_000.gz",
+            "meta": {
+                "content_length": 3298,
+                "record_count": 16
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-15/part_000.gz",
+            "meta": {
+                "content_length": 8148637,
+                "record_count": 29398
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-06/part_000.gz",
+            "meta": {
+                "content_length": 204866,
+                "record_count": 1634
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-25/part_000.gz",
+            "meta": {
+                "content_length": 677118,
+                "record_count": 4490
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-17/part_000.gz",
+            "meta": {
+                "content_length": 234083489,
+                "record_count": 667373
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-15/part_000.gz",
+            "meta": {
+                "content_length": 605723,
+                "record_count": 5471
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-14/part_000.gz",
+            "meta": {
+                "content_length": 555233,
+                "record_count": 5381
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-02/part_000.gz",
+            "meta": {
+                "content_length": 303365,
+                "record_count": 2429
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-11-07/part_000.gz",
+            "meta": {
+                "content_length": 24131,
+                "record_count": 205
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-11/part_000.gz",
+            "meta": {
+                "content_length": 740537,
+                "record_count": 6293
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-13/part_000.gz",
+            "meta": {
+                "content_length": 654040,
+                "record_count": 5312
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-12/part_000.gz",
+            "meta": {
+                "content_length": 637942,
+                "record_count": 6180
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-04/part_000.gz",
+            "meta": {
+                "content_length": 255584,
+                "record_count": 3775
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-04/part_000.gz",
+            "meta": {
+                "content_length": 667420,
+                "record_count": 3472
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-24/part_000.gz",
+            "meta": {
+                "content_length": 245896238,
+                "record_count": 700166
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-07/part_000.gz",
+            "meta": {
+                "content_length": 1098533,
+                "record_count": 6792
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-18/part_000.gz",
+            "meta": {
+                "content_length": 1715774,
+                "record_count": 21018
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-07/part_000.gz",
+            "meta": {
+                "content_length": 33523306,
+                "record_count": 160870
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-03/part_000.gz",
+            "meta": {
+                "content_length": 175773,
+                "record_count": 1733
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-09/part_000.gz",
+            "meta": {
+                "content_length": 2130567,
+                "record_count": 19891
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-13/part_000.gz",
+            "meta": {
+                "content_length": 876190,
+                "record_count": 4267
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-15/part_003.gz",
+            "meta": {
+                "content_length": 424660522,
+                "record_count": 941688
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-15/part_004.gz",
+            "meta": {
+                "content_length": 220800500,
+                "record_count": 563997
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-15/part_001.gz",
+            "meta": {
+                "content_length": 429901120,
+                "record_count": 503434
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-15/part_002.gz",
+            "meta": {
+                "content_length": 434236941,
+                "record_count": 679593
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-15/part_000.gz",
+            "meta": {
+                "content_length": 420801820,
+                "record_count": 329447
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-22/part_000.gz",
+            "meta": {
+                "content_length": 1241296,
+                "record_count": 10822
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-07/part_000.gz",
+            "meta": {
+                "content_length": 134633,
+                "record_count": 1080
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-08/part_000.gz",
+            "meta": {
+                "content_length": 34751506,
+                "record_count": 166414
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-03/part_000.gz",
+            "meta": {
+                "content_length": 460478,
+                "record_count": 5733
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-23/part_000.gz",
+            "meta": {
+                "content_length": 3773189,
+                "record_count": 38157
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-07/part_000.gz",
+            "meta": {
+                "content_length": 187313304,
+                "record_count": 2524842
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-13/part_000.gz",
+            "meta": {
+                "content_length": 783641,
+                "record_count": 7842
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-16/part_000.gz",
+            "meta": {
+                "content_length": 27726063,
+                "record_count": 107219
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-27/part_000.gz",
+            "meta": {
+                "content_length": 318019,
+                "record_count": 2612
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_003.gz",
+            "meta": {
+                "content_length": 431637231,
+                "record_count": 504902
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_007.gz",
+            "meta": {
+                "content_length": 423308391,
+                "record_count": 903681
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_010.gz",
+            "meta": {
+                "content_length": 290341610,
+                "record_count": 817655
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_006.gz",
+            "meta": {
+                "content_length": 433452829,
+                "record_count": 740374
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_008.gz",
+            "meta": {
+                "content_length": 424950521,
+                "record_count": 964116
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_004.gz",
+            "meta": {
+                "content_length": 434776426,
+                "record_count": 570895
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_005.gz",
+            "meta": {
+                "content_length": 434138964,
+                "record_count": 649881
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_001.gz",
+            "meta": {
+                "content_length": 422049618,
+                "record_count": 362631
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_002.gz",
+            "meta": {
+                "content_length": 427144466,
+                "record_count": 437752
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_000.gz",
+            "meta": {
+                "content_length": 418436232,
+                "record_count": 269908
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-16/part_009.gz",
+            "meta": {
+                "content_length": 425072080,
+                "record_count": 964011
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-18/part_000.gz",
+            "meta": {
+                "content_length": 69343516,
+                "record_count": 252519
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-25/part_000.gz",
+            "meta": {
+                "content_length": 198818,
+                "record_count": 2566
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-19/part_000.gz",
+            "meta": {
+                "content_length": 667911,
+                "record_count": 6455
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-13/part_000.gz",
+            "meta": {
+                "content_length": 146286,
+                "record_count": 966
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-03/part_000.gz",
+            "meta": {
+                "content_length": 405906,
+                "record_count": 8074
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-29/part_000.gz",
+            "meta": {
+                "content_length": 132791,
+                "record_count": 2178
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-01/part_000.gz",
+            "meta": {
+                "content_length": 70843,
+                "record_count": 516
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-11/part_000.gz",
+            "meta": {
+                "content_length": 3787909,
+                "record_count": 11321
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-06/part_000.gz",
+            "meta": {
+                "content_length": 897570,
+                "record_count": 6750
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-22/part_000.gz",
+            "meta": {
+                "content_length": 2393899,
+                "record_count": 27507
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-13/part_000.gz",
+            "meta": {
+                "content_length": 2312733,
+                "record_count": 21751
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-03/part_000.gz",
+            "meta": {
+                "content_length": 67109,
+                "record_count": 407
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-03/part_000.gz",
+            "meta": {
+                "content_length": 52641,
+                "record_count": 497
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-19/part_000.gz",
+            "meta": {
+                "content_length": 617565,
+                "record_count": 5598
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-31/part_000.gz",
+            "meta": {
+                "content_length": 1193465,
+                "record_count": 19679
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-27/part_000.gz",
+            "meta": {
+                "content_length": 392925,
+                "record_count": 3381
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-25/part_000.gz",
+            "meta": {
+                "content_length": 33992,
+                "record_count": 231
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-13/part_000.gz",
+            "meta": {
+                "content_length": 223269,
+                "record_count": 1097
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-11/part_000.gz",
+            "meta": {
+                "content_length": 31546478,
+                "record_count": 151779
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-21/part_000.gz",
+            "meta": {
+                "content_length": 63994373,
+                "record_count": 227309
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-13/part_000.gz",
+            "meta": {
+                "content_length": 3352738,
+                "record_count": 10449
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-14/part_000.gz",
+            "meta": {
+                "content_length": 4066194,
+                "record_count": 10381
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-12/part_000.gz",
+            "meta": {
+                "content_length": 1078409,
+                "record_count": 10942
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-26/part_000.gz",
+            "meta": {
+                "content_length": 1513509,
+                "record_count": 19431
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-26/part_000.gz",
+            "meta": {
+                "content_length": 232829,
+                "record_count": 2061
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-15/part_000.gz",
+            "meta": {
+                "content_length": 2011347,
+                "record_count": 32063
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-15/part_000.gz",
+            "meta": {
+                "content_length": 1119932,
+                "record_count": 10978
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-06/part_000.gz",
+            "meta": {
+                "content_length": 989185,
+                "record_count": 8630
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-25/part_000.gz",
+            "meta": {
+                "content_length": 112389674,
+                "record_count": 321125
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-12/part_000.gz",
+            "meta": {
+                "content_length": 1257799,
+                "record_count": 15426
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-10/part_000.gz",
+            "meta": {
+                "content_length": 779815,
+                "record_count": 9874
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-20/part_000.gz",
+            "meta": {
+                "content_length": 548850,
+                "record_count": 4797
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-06/part_000.gz",
+            "meta": {
+                "content_length": 25388107,
+                "record_count": 122448
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-22/part_000.gz",
+            "meta": {
+                "content_length": 1693,
+                "record_count": 4
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-19/part_000.gz",
+            "meta": {
+                "content_length": 49999940,
+                "record_count": 179988
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-29/part_001.gz",
+            "meta": {
+                "content_length": 421003224,
+                "record_count": 245983
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-29/part_002.gz",
+            "meta": {
+                "content_length": 244468381,
+                "record_count": 246114
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-29/part_000.gz",
+            "meta": {
+                "content_length": 434443950,
+                "record_count": 199040
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-08/part_000.gz",
+            "meta": {
+                "content_length": 201890,
+                "record_count": 1664
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-16/part_000.gz",
+            "meta": {
+                "content_length": 893776,
+                "record_count": 8164
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-05/part_000.gz",
+            "meta": {
+                "content_length": 716739,
+                "record_count": 2290
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-16/part_000.gz",
+            "meta": {
+                "content_length": 229840039,
+                "record_count": 652771
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-25/part_000.gz",
+            "meta": {
+                "content_length": 337296,
+                "record_count": 3388
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-27/part_000.gz",
+            "meta": {
+                "content_length": 997296,
+                "record_count": 14575
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-29/part_000.gz",
+            "meta": {
+                "content_length": 221004,
+                "record_count": 1878
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-27/part_000.gz",
+            "meta": {
+                "content_length": 220477,
+                "record_count": 2399
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_003.gz",
+            "meta": {
+                "content_length": 431505163,
+                "record_count": 499870
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_007.gz",
+            "meta": {
+                "content_length": 425345750,
+                "record_count": 887722
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_010.gz",
+            "meta": {
+                "content_length": 321856073,
+                "record_count": 886977
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_006.gz",
+            "meta": {
+                "content_length": 433234078,
+                "record_count": 736432
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_008.gz",
+            "meta": {
+                "content_length": 424981245,
+                "record_count": 964232
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_004.gz",
+            "meta": {
+                "content_length": 434684189,
+                "record_count": 564705
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_005.gz",
+            "meta": {
+                "content_length": 435856002,
+                "record_count": 638818
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_001.gz",
+            "meta": {
+                "content_length": 421431272,
+                "record_count": 358898
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_002.gz",
+            "meta": {
+                "content_length": 426618199,
+                "record_count": 433091
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_000.gz",
+            "meta": {
+                "content_length": 417587224,
+                "record_count": 270762
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-17/part_009.gz",
+            "meta": {
+                "content_length": 425000152,
+                "record_count": 964875
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-14/part_000.gz",
+            "meta": {
+                "content_length": 1380892,
+                "record_count": 18803
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-02/part_000.gz",
+            "meta": {
+                "content_length": 479723,
+                "record_count": 8079
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-17/part_000.gz",
+            "meta": {
+                "content_length": 39925644,
+                "record_count": 152667
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-28/part_000.gz",
+            "meta": {
+                "content_length": 385826,
+                "record_count": 3295
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-20/part_000.gz",
+            "meta": {
+                "content_length": 323781,
+                "record_count": 2638
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-28/part_003.gz",
+            "meta": {
+                "content_length": 152331496,
+                "record_count": 211161
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-28/part_001.gz",
+            "meta": {
+                "content_length": 425568836,
+                "record_count": 223036
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-28/part_002.gz",
+            "meta": {
+                "content_length": 420346205,
+                "record_count": 297724
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-28/part_000.gz",
+            "meta": {
+                "content_length": 436821530,
+                "record_count": 195584
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-04/part_000.gz",
+            "meta": {
+                "content_length": 1301677,
+                "record_count": 7621
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-01/part_000.gz",
+            "meta": {
+                "content_length": 57071,
+                "record_count": 508
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-05/part_000.gz",
+            "meta": {
+                "content_length": 53656,
+                "record_count": 340
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-19/part_000.gz",
+            "meta": {
+                "content_length": 244345172,
+                "record_count": 692398
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-11/part_000.gz",
+            "meta": {
+                "content_length": 543596,
+                "record_count": 4770
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-30/part_000.gz",
+            "meta": {
+                "content_length": 3194015,
+                "record_count": 6906
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-30/part_000.gz",
+            "meta": {
+                "content_length": 448668,
+                "record_count": 6741
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-12/part_000.gz",
+            "meta": {
+                "content_length": 175728,
+                "record_count": 1336
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-29/part_000.gz",
+            "meta": {
+                "content_length": 1350348,
+                "record_count": 19944
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-07/part_000.gz",
+            "meta": {
+                "content_length": 301666,
+                "record_count": 1012
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-15/part_000.gz",
+            "meta": {
+                "content_length": 105171481,
+                "record_count": 306100
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-02/part_000.gz",
+            "meta": {
+                "content_length": 17909462,
+                "record_count": 88708
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-15/part_000.gz",
+            "meta": {
+                "content_length": 414282,
+                "record_count": 3850
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-10/part_000.gz",
+            "meta": {
+                "content_length": 32486369,
+                "record_count": 154110
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-10/part_000.gz",
+            "meta": {
+                "content_length": 498373,
+                "record_count": 4536
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-02/part_000.gz",
+            "meta": {
+                "content_length": 821495,
+                "record_count": 10629
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-20/part_000.gz",
+            "meta": {
+                "content_length": 38092633,
+                "record_count": 147916
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-06/part_000.gz",
+            "meta": {
+                "content_length": 13994135,
+                "record_count": 186269
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-31/part_000.gz",
+            "meta": {
+                "content_length": 14918159,
+                "record_count": 62966
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-07/part_000.gz",
+            "meta": {
+                "content_length": 204223,
+                "record_count": 982
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-17/part_000.gz",
+            "meta": {
+                "content_length": 6610792,
+                "record_count": 31705
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-25/part_000.gz",
+            "meta": {
+                "content_length": 1020986,
+                "record_count": 14737
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-07-20/part_000.gz",
+            "meta": {
+                "content_length": 6010,
+                "record_count": 37
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-18/part_000.gz",
+            "meta": {
+                "content_length": 494780,
+                "record_count": 5013
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-17/part_000.gz",
+            "meta": {
+                "content_length": 119401,
+                "record_count": 981
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-26/part_000.gz",
+            "meta": {
+                "content_length": 25374716,
+                "record_count": 142360
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-18/part_000.gz",
+            "meta": {
+                "content_length": 229697050,
+                "record_count": 660171
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-09/part_000.gz",
+            "meta": {
+                "content_length": 1708761,
+                "record_count": 3753
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-22/part_000.gz",
+            "meta": {
+                "content_length": 2150451,
+                "record_count": 21788
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-10/part_000.gz",
+            "meta": {
+                "content_length": 4219137,
+                "record_count": 9537
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-09/part_000.gz",
+            "meta": {
+                "content_length": 251026,
+                "record_count": 1964
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-03/part_000.gz",
+            "meta": {
+                "content_length": 1100404,
+                "record_count": 7859
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-23/part_000.gz",
+            "meta": {
+                "content_length": 232553911,
+                "record_count": 654683
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-31/part_000.gz",
+            "meta": {
+                "content_length": 226162,
+                "record_count": 1262
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-14/part_000.gz",
+            "meta": {
+                "content_length": 26213595,
+                "record_count": 124871
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-15/part_000.gz",
+            "meta": {
+                "content_length": 446847,
+                "record_count": 4861
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-13/part_000.gz",
+            "meta": {
+                "content_length": 1060345,
+                "record_count": 10147
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_013.gz",
+            "meta": {
+                "content_length": 406864207,
+                "record_count": 850573
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_003.gz",
+            "meta": {
+                "content_length": 415192393,
+                "record_count": 237991
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_007.gz",
+            "meta": {
+                "content_length": 417694278,
+                "record_count": 393219
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_010.gz",
+            "meta": {
+                "content_length": 428342436,
+                "record_count": 602509
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_006.gz",
+            "meta": {
+                "content_length": 414503366,
+                "record_count": 341708
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_008.gz",
+            "meta": {
+                "content_length": 421745594,
+                "record_count": 451503
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_014.gz",
+            "meta": {
+                "content_length": 101290386,
+                "record_count": 294336
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_004.gz",
+            "meta": {
+                "content_length": 412932453,
+                "record_count": 263895
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_005.gz",
+            "meta": {
+                "content_length": 413020498,
+                "record_count": 298353
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_001.gz",
+            "meta": {
+                "content_length": 424727356,
+                "record_count": 206127
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_002.gz",
+            "meta": {
+                "content_length": 418752627,
+                "record_count": 219639
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_000.gz",
+            "meta": {
+                "content_length": 432988168,
+                "record_count": 195065
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_009.gz",
+            "meta": {
+                "content_length": 425703647,
+                "record_count": 517087
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_011.gz",
+            "meta": {
+                "content_length": 425127110,
+                "record_count": 688724
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-23/part_012.gz",
+            "meta": {
+                "content_length": 418933473,
+                "record_count": 952530
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-28/part_000.gz",
+            "meta": {
+                "content_length": 309780,
+                "record_count": 2770
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-16/part_000.gz",
+            "meta": {
+                "content_length": 104542,
+                "record_count": 955
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-24/part_000.gz",
+            "meta": {
+                "content_length": 102908,
+                "record_count": 952
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-28/part_000.gz",
+            "meta": {
+                "content_length": 810,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-12/part_000.gz",
+            "meta": {
+                "content_length": 29849303,
+                "record_count": 144407
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-04/part_000.gz",
+            "meta": {
+                "content_length": 726696,
+                "record_count": 8906
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-05/part_000.gz",
+            "meta": {
+                "content_length": 40069,
+                "record_count": 318
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-02/part_000.gz",
+            "meta": {
+                "content_length": 600993,
+                "record_count": 9207
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-05/part_000.gz",
+            "meta": {
+                "content_length": 772745,
+                "record_count": 4251
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-24/part_000.gz",
+            "meta": {
+                "content_length": 6701148,
+                "record_count": 68203
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-18/part_000.gz",
+            "meta": {
+                "content_length": 904748,
+                "record_count": 9223
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-03/part_000.gz",
+            "meta": {
+                "content_length": 2169822,
+                "record_count": 5872
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-04/part_000.gz",
+            "meta": {
+                "content_length": 1290234,
+                "record_count": 9299
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-07/part_000.gz",
+            "meta": {
+                "content_length": 231003,
+                "record_count": 1870
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-26/part_003.gz",
+            "meta": {
+                "content_length": 233209053,
+                "record_count": 299841
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-26/part_001.gz",
+            "meta": {
+                "content_length": 426196501,
+                "record_count": 220570
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-26/part_002.gz",
+            "meta": {
+                "content_length": 420104088,
+                "record_count": 283050
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-26/part_000.gz",
+            "meta": {
+                "content_length": 436971190,
+                "record_count": 195388
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-14/part_000.gz",
+            "meta": {
+                "content_length": 1234790,
+                "record_count": 11734
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-11-08/part_000.gz",
+            "meta": {
+                "content_length": 447940,
+                "record_count": 4339
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-24/part_000.gz",
+            "meta": {
+                "content_length": 32474745,
+                "record_count": 167254
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-14/part_000.gz",
+            "meta": {
+                "content_length": 1077324,
+                "record_count": 10241
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-04/part_000.gz",
+            "meta": {
+                "content_length": 328743,
+                "record_count": 3732
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-06/part_000.gz",
+            "meta": {
+                "content_length": 220094,
+                "record_count": 2289
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-27/part_000.gz",
+            "meta": {
+                "content_length": 767489,
+                "record_count": 3335
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-14/part_000.gz",
+            "meta": {
+                "content_length": 285279,
+                "record_count": 1080
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-08/part_000.gz",
+            "meta": {
+                "content_length": 232799,
+                "record_count": 2037
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-20/part_000.gz",
+            "meta": {
+                "content_length": 3725371,
+                "record_count": 55648
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-16/part_000.gz",
+            "meta": {
+                "content_length": 6239028,
+                "record_count": 107386
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-09/part_000.gz",
+            "meta": {
+                "content_length": 1256041,
+                "record_count": 8577
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-13/part_000.gz",
+            "meta": {
+                "content_length": 58156,
+                "record_count": 479
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-12/part_000.gz",
+            "meta": {
+                "content_length": 1529966,
+                "record_count": 5025
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-01/part_000.gz",
+            "meta": {
+                "content_length": 12446012,
+                "record_count": 48800
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-24/part_000.gz",
+            "meta": {
+                "content_length": 428114,
+                "record_count": 4563
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-24/part_000.gz",
+            "meta": {
+                "content_length": 816561,
+                "record_count": 5185
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-19/part_000.gz",
+            "meta": {
+                "content_length": 116444,
+                "record_count": 1091
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-07-06/part_000.gz",
+            "meta": {
+                "content_length": 634,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-14/part_000.gz",
+            "meta": {
+                "content_length": 202678,
+                "record_count": 1007
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-04/part_000.gz",
+            "meta": {
+                "content_length": 2186698,
+                "record_count": 6486
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-01/part_000.gz",
+            "meta": {
+                "content_length": 3111632,
+                "record_count": 49048
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-08/part_000.gz",
+            "meta": {
+                "content_length": 827600,
+                "record_count": 8806
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-26/part_000.gz",
+            "meta": {
+                "content_length": 325628,
+                "record_count": 2916
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-28/part_000.gz",
+            "meta": {
+                "content_length": 702726,
+                "record_count": 10479
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-20/part_000.gz",
+            "meta": {
+                "content_length": 673229,
+                "record_count": 3683
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-25/part_000.gz",
+            "meta": {
+                "content_length": 42319468,
+                "record_count": 152713
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-25/part_000.gz",
+            "meta": {
+                "content_length": 31157180,
+                "record_count": 125476
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-17/part_000.gz",
+            "meta": {
+                "content_length": 88252,
+                "record_count": 787
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-15/part_000.gz",
+            "meta": {
+                "content_length": 9514878,
+                "record_count": 45979
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-02/part_000.gz",
+            "meta": {
+                "content_length": 1962782,
+                "record_count": 4202
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-17/part_000.gz",
+            "meta": {
+                "content_length": 2130985,
+                "record_count": 29881
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-10/part_000.gz",
+            "meta": {
+                "content_length": 886987,
+                "record_count": 4609
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-12/part_000.gz",
+            "meta": {
+                "content_length": 313259,
+                "record_count": 2934
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-04/part_000.gz",
+            "meta": {
+                "content_length": 5389228,
+                "record_count": 27344
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-19/part_000.gz",
+            "meta": {
+                "content_length": 41584171,
+                "record_count": 233353
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-07/part_000.gz",
+            "meta": {
+                "content_length": 2973465,
+                "record_count": 43324
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-21/part_000.gz",
+            "meta": {
+                "content_length": 1636079,
+                "record_count": 16078
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-25/part_000.gz",
+            "meta": {
+                "content_length": 150653,
+                "record_count": 1795
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-21/part_000.gz",
+            "meta": {
+                "content_length": 574469,
+                "record_count": 4481
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-16/part_000.gz",
+            "meta": {
+                "content_length": 959721,
+                "record_count": 9844
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-23/part_000.gz",
+            "meta": {
+                "content_length": 439461,
+                "record_count": 4639
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-07/part_000.gz",
+            "meta": {
+                "content_length": 1344643,
+                "record_count": 16535
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-28/part_000.gz",
+            "meta": {
+                "content_length": 67429,
+                "record_count": 791
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-10/part_000.gz",
+            "meta": {
+                "content_length": 287710,
+                "record_count": 2409
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-24/part_000.gz",
+            "meta": {
+                "content_length": 463350,
+                "record_count": 5841
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-03/part_000.gz",
+            "meta": {
+                "content_length": 673906,
+                "record_count": 9527
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-14/part_000.gz",
+            "meta": {
+                "content_length": 58779,
+                "record_count": 483
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-05/part_000.gz",
+            "meta": {
+                "content_length": 964057,
+                "record_count": 14611
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-04/part_000.gz",
+            "meta": {
+                "content_length": 85971,
+                "record_count": 956
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2023-06-13/part_000.gz",
+            "meta": {
+                "content_length": 12359,
+                "record_count": 72
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-22/part_000.gz",
+            "meta": {
+                "content_length": 857639,
+                "record_count": 5910
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-09-26/part_000.gz",
+            "meta": {
+                "content_length": 592368,
+                "record_count": 5472
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-11/part_000.gz",
+            "meta": {
+                "content_length": 122316941,
+                "record_count": 1642927
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-04-08/part_000.gz",
+            "meta": {
+                "content_length": 1341046,
+                "record_count": 10169
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-11-07/part_000.gz",
+            "meta": {
+                "content_length": 56189,
+                "record_count": 423
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-04/part_000.gz",
+            "meta": {
+                "content_length": 91284,
+                "record_count": 827
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-07/part_000.gz",
+            "meta": {
+                "content_length": 1435522,
+                "record_count": 21720
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-16/part_000.gz",
+            "meta": {
+                "content_length": 69951658,
+                "record_count": 249740
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-02-05/part_000.gz",
+            "meta": {
+                "content_length": 435625,
+                "record_count": 3639
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-08/part_000.gz",
+            "meta": {
+                "content_length": 3143502,
+                "record_count": 43385
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-15/part_000.gz",
+            "meta": {
+                "content_length": 2786015,
+                "record_count": 13237
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-07-18/part_000.gz",
+            "meta": {
+                "content_length": 1458110,
+                "record_count": 22894
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-12/part_000.gz",
+            "meta": {
+                "content_length": 2478481,
+                "record_count": 23992
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-18/part_000.gz",
+            "meta": {
+                "content_length": 81928,
+                "record_count": 755
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-03-20/part_000.gz",
+            "meta": {
+                "content_length": 39115378,
+                "record_count": 135479
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-06-27/part_000.gz",
+            "meta": {
+                "content_length": 731517,
+                "record_count": 11724
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-25/part_000.gz",
+            "meta": {
+                "content_length": 2121931,
+                "record_count": 29042
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_003.gz",
+            "meta": {
+                "content_length": 431842034,
+                "record_count": 500770
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_007.gz",
+            "meta": {
+                "content_length": 423982511,
+                "record_count": 900156
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_010.gz",
+            "meta": {
+                "content_length": 274064199,
+                "record_count": 757840
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_006.gz",
+            "meta": {
+                "content_length": 433586901,
+                "record_count": 738315
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_008.gz",
+            "meta": {
+                "content_length": 425063680,
+                "record_count": 963848
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_004.gz",
+            "meta": {
+                "content_length": 434983792,
+                "record_count": 568204
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_005.gz",
+            "meta": {
+                "content_length": 434624260,
+                "record_count": 647058
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_001.gz",
+            "meta": {
+                "content_length": 421843308,
+                "record_count": 358825
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_002.gz",
+            "meta": {
+                "content_length": 427362510,
+                "record_count": 434280
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_000.gz",
+            "meta": {
+                "content_length": 418416288,
+                "record_count": 267103
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-05-18/part_009.gz",
+            "meta": {
+                "content_length": 424976367,
+                "record_count": 963410
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2025-01-21/part_000.gz",
+            "meta": {
+                "content_length": 35634785,
+                "record_count": 205386
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-12-23/part_000.gz",
+            "meta": {
+                "content_length": 690945,
+                "record_count": 4417
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-08-02/part_000.gz",
+            "meta": {
+                "content_length": 1149092,
+                "record_count": 16287
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-05-31/part_000.gz",
+            "meta": {
+                "content_length": 243649,
+                "record_count": 4720
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-28/part_000.gz",
+            "meta": {
+                "content_length": 118476,
+                "record_count": 1634
+            }
+        },
+        {
+            "url": "s3://openalex/data/authors/updated_date=2024-10-02/part_000.gz",
+            "meta": {
+                "content_length": 266567,
+                "record_count": 2176
+            }
+        }
+    ],
+    "meta": {
+        "content_length": 60979112090,
+        "record_count": 103480180
+    }
+}

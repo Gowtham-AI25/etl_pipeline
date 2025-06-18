@@ -1,1 +1,34 @@
-# Development-specific configuration
+s3_urls:
+  authors: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/src/openalex_etl/utils/utils_files/authors_s3_files.json
+  concepts: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/src/openalex_etl/utils/utils_files/concepts_s3_urls.json
+  funders: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/src/openalex_etl/utils/utils_files/funders_s3_urls.json
+  institutions: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/src/openalex_etl/utils/utils_files/institutions_s3_urls.json
+  papers: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/src/openalex_etl/utils/utils_files/papers_s3_urls.json
+  sources: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/src/openalex_etl/utils/utils_files/sources_s3_urls.json
+directories:
+  base_path: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/data/raw/openalex_s3
+  gz: gz_files
+  json: json_files
+  jsonl: jsonl_files
+  csv: final_csv
+auth_required:
+  openalex_s3: false
+  private_s3: true
+config: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/config/development.yml
+openalex_api:
+  topics_base_url: https://api.openalex.org/topics
+  per_page: 200
+  headers: {}
+api_files:
+  topics_csv_path: C:/Users/gowth/Documents/rag_datasets/Openalex_dataprocessing/ETL_pipeline/data/raw/csv_files/openalex_topics_raw.csv
+file_paths:
+  aws_private_files: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\private_aws_files\
+  csv_file_path: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\csv_files\
+  sources_jsonl_path: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\openalex_s3\sources\jsonl_files\sources_jsonl_file.jsonl
+  sources_csv_file: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\csv_files\sources.csv
+  institutions_jsonl_path: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\openalex_s3\institutions\jsonl_files\institutions_jsonl_file.jsonl
+  institutions_csv_file: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\csv_files\institutions.csv
+  funders_jsonl_path: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\openalex_s3\funders\jsonl_files\funders_jsonl_file.jsonl
+  funders_csv_file: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\csv_files\funders.csv
+  concepts_jsonl_path: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\openalex_s3\concepts\jsonl_files\concepts_jsonl_file.jsonl
+  concepts_csv_file: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\csv_files\concepts.csv

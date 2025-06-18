@@ -1,0 +1,1016 @@
+{
+    "entries": [
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-26/part_000.gz",
+            "meta": {
+                "content_length": 4402,
+                "record_count": 10
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-11/part_000.gz",
+            "meta": {
+                "content_length": 17653,
+                "record_count": 38
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-08/part_000.gz",
+            "meta": {
+                "content_length": 1383,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-20/part_000.gz",
+            "meta": {
+                "content_length": 39245,
+                "record_count": 82
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-10/part_000.gz",
+            "meta": {
+                "content_length": 7302,
+                "record_count": 16
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-25/part_000.gz",
+            "meta": {
+                "content_length": 982316,
+                "record_count": 2377
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-07-10/part_000.gz",
+            "meta": {
+                "content_length": 527,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-24/part_000.gz",
+            "meta": {
+                "content_length": 3912,
+                "record_count": 8
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-06-16/part_000.gz",
+            "meta": {
+                "content_length": 484,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-21/part_000.gz",
+            "meta": {
+                "content_length": 986,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-27/part_000.gz",
+            "meta": {
+                "content_length": 574058,
+                "record_count": 1362
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-09/part_000.gz",
+            "meta": {
+                "content_length": 499,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-23/part_000.gz",
+            "meta": {
+                "content_length": 9271,
+                "record_count": 19
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-17/part_000.gz",
+            "meta": {
+                "content_length": 1515,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-21/part_000.gz",
+            "meta": {
+                "content_length": 20051,
+                "record_count": 43
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-10-05/part_000.gz",
+            "meta": {
+                "content_length": 987,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-05/part_000.gz",
+            "meta": {
+                "content_length": 72943,
+                "record_count": 151
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-05-10/part_000.gz",
+            "meta": {
+                "content_length": 1875,
+                "record_count": 3
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-22/part_000.gz",
+            "meta": {
+                "content_length": 60056,
+                "record_count": 126
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-23/part_000.gz",
+            "meta": {
+                "content_length": 1183,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-17/part_000.gz",
+            "meta": {
+                "content_length": 13818,
+                "record_count": 27
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-08-11/part_000.gz",
+            "meta": {
+                "content_length": 2777,
+                "record_count": 6
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-27/part_000.gz",
+            "meta": {
+                "content_length": 60238,
+                "record_count": 129
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-10-20/part_000.gz",
+            "meta": {
+                "content_length": 1875,
+                "record_count": 5
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-12/part_000.gz",
+            "meta": {
+                "content_length": 727,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-02/part_000.gz",
+            "meta": {
+                "content_length": 9774,
+                "record_count": 22
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-08-20/part_000.gz",
+            "meta": {
+                "content_length": 748,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-07-28/part_000.gz",
+            "meta": {
+                "content_length": 832,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-03/part_000.gz",
+            "meta": {
+                "content_length": 5689,
+                "record_count": 13
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-06-21/part_000.gz",
+            "meta": {
+                "content_length": 472,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-07-19/part_000.gz",
+            "meta": {
+                "content_length": 575,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-20/part_000.gz",
+            "meta": {
+                "content_length": 239897,
+                "record_count": 523
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-26/part_000.gz",
+            "meta": {
+                "content_length": 9172,
+                "record_count": 24
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-08-04/part_000.gz",
+            "meta": {
+                "content_length": 977,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-30/part_000.gz",
+            "meta": {
+                "content_length": 857,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-09/part_000.gz",
+            "meta": {
+                "content_length": 477,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-24/part_000.gz",
+            "meta": {
+                "content_length": 33502,
+                "record_count": 71
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-10-30/part_000.gz",
+            "meta": {
+                "content_length": 637,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-03-20/part_000.gz",
+            "meta": {
+                "content_length": 2271,
+                "record_count": 5
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-06-29/part_000.gz",
+            "meta": {
+                "content_length": 499,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-23/part_000.gz",
+            "meta": {
+                "content_length": 24018,
+                "record_count": 49
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-11/part_000.gz",
+            "meta": {
+                "content_length": 3558,
+                "record_count": 7
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-30/part_000.gz",
+            "meta": {
+                "content_length": 14637,
+                "record_count": 29
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-18/part_000.gz",
+            "meta": {
+                "content_length": 1068,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-04-21/part_000.gz",
+            "meta": {
+                "content_length": 479,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-04/part_000.gz",
+            "meta": {
+                "content_length": 2199,
+                "record_count": 3
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-26/part_000.gz",
+            "meta": {
+                "content_length": 886,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-07-21/part_000.gz",
+            "meta": {
+                "content_length": 1367,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-09/part_000.gz",
+            "meta": {
+                "content_length": 5893,
+                "record_count": 11
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-07-20/part_000.gz",
+            "meta": {
+                "content_length": 2047,
+                "record_count": 10
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-01/part_000.gz",
+            "meta": {
+                "content_length": 1831,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-21/part_000.gz",
+            "meta": {
+                "content_length": 5306,
+                "record_count": 11
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-28/part_000.gz",
+            "meta": {
+                "content_length": 76883,
+                "record_count": 153
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-09/part_000.gz",
+            "meta": {
+                "content_length": 11465,
+                "record_count": 23
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-02/part_000.gz",
+            "meta": {
+                "content_length": 1190,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-11/part_000.gz",
+            "meta": {
+                "content_length": 568,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-20/part_000.gz",
+            "meta": {
+                "content_length": 79807,
+                "record_count": 206
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-23/part_000.gz",
+            "meta": {
+                "content_length": 2323,
+                "record_count": 4
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-27/part_000.gz",
+            "meta": {
+                "content_length": 31386,
+                "record_count": 79
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-22/part_000.gz",
+            "meta": {
+                "content_length": 5629,
+                "record_count": 11
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-05/part_000.gz",
+            "meta": {
+                "content_length": 5983,
+                "record_count": 12
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-03-19/part_000.gz",
+            "meta": {
+                "content_length": 104086,
+                "record_count": 1104
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-10/part_000.gz",
+            "meta": {
+                "content_length": 641,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-22/part_000.gz",
+            "meta": {
+                "content_length": 3517,
+                "record_count": 6
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-16/part_000.gz",
+            "meta": {
+                "content_length": 1297,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-10/part_000.gz",
+            "meta": {
+                "content_length": 489,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-17/part_000.gz",
+            "meta": {
+                "content_length": 5044,
+                "record_count": 9
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-11/part_000.gz",
+            "meta": {
+                "content_length": 3418,
+                "record_count": 8
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-04/part_000.gz",
+            "meta": {
+                "content_length": 11574,
+                "record_count": 26
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-24/part_000.gz",
+            "meta": {
+                "content_length": 2222,
+                "record_count": 3
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-13/part_000.gz",
+            "meta": {
+                "content_length": 33225,
+                "record_count": 72
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-22/part_000.gz",
+            "meta": {
+                "content_length": 510,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-10-07/part_000.gz",
+            "meta": {
+                "content_length": 533,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-08/part_000.gz",
+            "meta": {
+                "content_length": 988,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-08-13/part_000.gz",
+            "meta": {
+                "content_length": 592,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-16/part_000.gz",
+            "meta": {
+                "content_length": 12008,
+                "record_count": 23
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-27/part_000.gz",
+            "meta": {
+                "content_length": 531,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-16/part_000.gz",
+            "meta": {
+                "content_length": 15343,
+                "record_count": 30
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-13/part_000.gz",
+            "meta": {
+                "content_length": 720,
+                "record_count": 3
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-11/part_000.gz",
+            "meta": {
+                "content_length": 181870,
+                "record_count": 387
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-03/part_000.gz",
+            "meta": {
+                "content_length": 524,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-01/part_000.gz",
+            "meta": {
+                "content_length": 22138,
+                "record_count": 44
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-30/part_000.gz",
+            "meta": {
+                "content_length": 3889132,
+                "record_count": 9182
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-27/part_000.gz",
+            "meta": {
+                "content_length": 2380,
+                "record_count": 4
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-25/part_000.gz",
+            "meta": {
+                "content_length": 2394,
+                "record_count": 4
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-11/part_000.gz",
+            "meta": {
+                "content_length": 433,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-21/part_000.gz",
+            "meta": {
+                "content_length": 6703,
+                "record_count": 13
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-13/part_000.gz",
+            "meta": {
+                "content_length": 99143,
+                "record_count": 217
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-15/part_000.gz",
+            "meta": {
+                "content_length": 1238,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-06/part_000.gz",
+            "meta": {
+                "content_length": 17361,
+                "record_count": 36
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-08-10/part_000.gz",
+            "meta": {
+                "content_length": 561,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-29/part_000.gz",
+            "meta": {
+                "content_length": 2693598,
+                "record_count": 6349
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-05/part_000.gz",
+            "meta": {
+                "content_length": 1152,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-16/part_000.gz",
+            "meta": {
+                "content_length": 2336,
+                "record_count": 3
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-10-27/part_000.gz",
+            "meta": {
+                "content_length": 873,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-17/part_000.gz",
+            "meta": {
+                "content_length": 11185,
+                "record_count": 20
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-17/part_000.gz",
+            "meta": {
+                "content_length": 12059,
+                "record_count": 25
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-20/part_000.gz",
+            "meta": {
+                "content_length": 460,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-28/part_000.gz",
+            "meta": {
+                "content_length": 1442033,
+                "record_count": 3430
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-04/part_000.gz",
+            "meta": {
+                "content_length": 429,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-05-05/part_000.gz",
+            "meta": {
+                "content_length": 995,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-11/part_000.gz",
+            "meta": {
+                "content_length": 1581,
+                "record_count": 4
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-06-30/part_000.gz",
+            "meta": {
+                "content_length": 600,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-12/part_000.gz",
+            "meta": {
+                "content_length": 1374,
+                "record_count": 3
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-07-29/part_000.gz",
+            "meta": {
+                "content_length": 464,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-15/part_000.gz",
+            "meta": {
+                "content_length": 33809,
+                "record_count": 69
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-02/part_000.gz",
+            "meta": {
+                "content_length": 13164,
+                "record_count": 26
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-10/part_000.gz",
+            "meta": {
+                "content_length": 502,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-20/part_000.gz",
+            "meta": {
+                "content_length": 5326,
+                "record_count": 10
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-04-20/part_000.gz",
+            "meta": {
+                "content_length": 1853,
+                "record_count": 3
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-17/part_000.gz",
+            "meta": {
+                "content_length": 960,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-26/part_000.gz",
+            "meta": {
+                "content_length": 43775,
+                "record_count": 112
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-04-15/part_000.gz",
+            "meta": {
+                "content_length": 504,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-10/part_000.gz",
+            "meta": {
+                "content_length": 18432,
+                "record_count": 39
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-23/part_000.gz",
+            "meta": {
+                "content_length": 1757,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-06-15/part_000.gz",
+            "meta": {
+                "content_length": 504,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-23/part_000.gz",
+            "meta": {
+                "content_length": 22945,
+                "record_count": 48
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-05/part_000.gz",
+            "meta": {
+                "content_length": 484,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-08-18/part_000.gz",
+            "meta": {
+                "content_length": 990,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-04/part_000.gz",
+            "meta": {
+                "content_length": 747,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-26/part_000.gz",
+            "meta": {
+                "content_length": 1676103,
+                "record_count": 4070
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-27/part_000.gz",
+            "meta": {
+                "content_length": 4330,
+                "record_count": 8
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-02-07/part_000.gz",
+            "meta": {
+                "content_length": 1289,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-09/part_000.gz",
+            "meta": {
+                "content_length": 2214,
+                "record_count": 6
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-04/part_000.gz",
+            "meta": {
+                "content_length": 89110,
+                "record_count": 182
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-20/part_000.gz",
+            "meta": {
+                "content_length": 963,
+                "record_count": 4
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-25/part_000.gz",
+            "meta": {
+                "content_length": 9755,
+                "record_count": 19
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-25/part_000.gz",
+            "meta": {
+                "content_length": 5973,
+                "record_count": 14
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-10/part_000.gz",
+            "meta": {
+                "content_length": 15899,
+                "record_count": 34
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-02-04/part_000.gz",
+            "meta": {
+                "content_length": 2165,
+                "record_count": 5
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-10-21/part_000.gz",
+            "meta": {
+                "content_length": 988,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-21/part_000.gz",
+            "meta": {
+                "content_length": 467,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-09-16/part_000.gz",
+            "meta": {
+                "content_length": 483,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-07-07/part_000.gz",
+            "meta": {
+                "content_length": 2990,
+                "record_count": 5
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-11-10/part_000.gz",
+            "meta": {
+                "content_length": 432,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-22/part_000.gz",
+            "meta": {
+                "content_length": 1876,
+                "record_count": 2
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-04-08/part_000.gz",
+            "meta": {
+                "content_length": 50343,
+                "record_count": 105
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-16/part_000.gz",
+            "meta": {
+                "content_length": 33900,
+                "record_count": 72
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-06-18/part_000.gz",
+            "meta": {
+                "content_length": 494,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-03-20/part_000.gz",
+            "meta": {
+                "content_length": 6813,
+                "record_count": 14
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-05-18/part_000.gz",
+            "meta": {
+                "content_length": 296703,
+                "record_count": 648
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2025-01-21/part_000.gz",
+            "meta": {
+                "content_length": 74921,
+                "record_count": 197
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-12-23/part_000.gz",
+            "meta": {
+                "content_length": 877,
+                "record_count": 1
+            }
+        },
+        {
+            "url": "s3://openalex/data/funders/updated_date=2024-10-28/part_000.gz",
+            "meta": {
+                "content_length": 1072,
+                "record_count": 2
+            }
+        }
+    ],
+    "meta": {
+        "content_length": 13480651,
+        "record_count": 32437
+    }
+}

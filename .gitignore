@@ -26,11 +26,12 @@ share/python-wheels/
 config/production.yml
 *.env
 .secrets/
-
+config_private.yml
 # Data files
 data/
 
 # IDE / Editor specific files
 .vscode/
 .idea/
-
+.venv/*
+notebooks/Commands.txt
