@@ -124,6 +124,9 @@ my_etl_pipeline/
   * Indexes and constraints are enforced **after loading**, avoiding overhead during insert.
 
 ### 📘 Logical ER Diagram
+
+#### Zoom in for clarity
+
 ![ER Diagram](https://github.com/Gowtham-AI25/etl_pipeline/blob/main/docs/Openalex_Finance_papers_database.png)
 
 ---
