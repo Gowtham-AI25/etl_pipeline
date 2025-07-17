@@ -67,6 +67,34 @@ This project provides a modular and scalable ETL (Extract, Transform, Load) pipe
   * Indexes and constraints are enforced **after loading**, avoiding overhead during insert.
 
 ---
+## ⚙️ Technologies Used
+
+Python 3.11
+
+Pandas
+
+PyODBC
+
+SQL Server
+
+DBML (dbdocs.io)
+
+Logging module
+
+Git/GitHub
+
+## 📂 Entities Processed
+concepts
+
+institutions
+
+sources
+
+funders
+
+papers
+
+topics
 
 ## 📦 Memory & Storage Concepts Used
 
