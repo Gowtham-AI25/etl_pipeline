@@ -32,3 +32,7 @@ file_paths:
   funders_csv_file: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\csv_files\funders.csv
   concepts_jsonl_path: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\openalex_s3\concepts\jsonl_files\concepts_jsonl_file.jsonl
   concepts_csv_file: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\raw\csv_files\concepts.csv
+
+database_paths:
+  sql_file: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\create tables.sql
+  csv_root: C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\data\processed\debug

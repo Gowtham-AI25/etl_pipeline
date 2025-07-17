@@ -6,3 +6,256 @@
 
 # To check which python is using 
 > python -c "import sys; print(sys.executable)"
+
+
+concepts_ancestor_concepts
+concepts_counts_by_year
+funder_alt_titles
+funders_main
+funder_counts_by_years
+funder_extra_roles
+institution_alternatives_names
+institution_associated_topics
+institution_counts_by_year
+institution_institution_roles
+institution_lineage_ids
+institution_topic_share
+institution_acronyms
+institution_geo_data
+institution_geo_id
+institution_associated_concepts
+institution_associated_topics
+institution_related_institutions
+institution_main
+lookup_domain_data
+lookup_main
+lookup_field_data
+lookup_parent_lookup
+lookup_sibling_topics
+lookup_subfield_data
+lookup_topic_keywords
+papers_all_topics
+papers_author_data
+papers_concepts
+papers_keywords
+papers_indexed_in
+papers_paper_author
+papers_topics_data
+sources_alternate_titles
+sources_host_org_lineage_ids
+concepts_main
+concepts_related_concepts
+funder_associated_concepts
+
+(openalex-etl-py3.11) PS C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\src\openalex_etl\load> poetry run to_data_warehouse.py
+Inserting into papers_reference_ids:  67%|██████████████████████████████████████████████████████████████████████████▍                                    | 5577676/8315147 [47:26<08:58, 5084.56rows/s]
+❌ Insertion stopped at row 5577951:
+Row content: {'paper_id': '                    Business.|Robert Litterman is executive editor of the Financial Analysts Journal.', 'reference_ids': 'False'}
+Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'fin_openalex.dbo.papers_reference_ids', column 'paper_id'. Truncated value: '                    Business.|Robert Lit'. (2628) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+Inserting into papers_reference_ids:  67%|██████████████████████████████████████████████████████████████████████████▍                                    | 5577952/8315147 [47:26<23:16, 1959.80rows/s]
+Traceback (most recent call last):
+
+
+
+  (openalex-etl-py3.11) PS C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\src\openalex_etl\load> poetry run to_data_warehouse.py
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+Command Excetution completed..
+✅ SQL script executed successfully.
+Inserting into concepts_ancestor_concepts: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28916/28916 [00:06<00:00, 4716.76rows/s]
+Inserting into concepts_counts_by_year: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 64388/64388 [00:13<00:00, 4827.78rows/s]
+Inserting into concepts_main:  22%|██████████████████████████▌                                                                                               | 14153/65073 [00:22<00:50, 1016.02rows/s]
+❌ Insertion stopped at row 14248:
+Row content: {'concept_id': 'C126766683', 'display_name': 'Molecular graphics', 'hierarchy_level': 3, 'description': 'computer graphics representing  molecules and their properties', 'works_count': 937, 'cited_by_count': 187975, '2yr_mean_citedness': 130.7826086956522, 'h_index': 84, 'i10_index': 302, 'oa_percent': 22.84}
+Error: ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+Inserting into concepts_main:  22%|██████████████████████████▉                                                                                                | 14249/65073 [00:23<01:22, 617.83rows/s] 
+Inserting into concepts_related_concepts:   8%|████████▊                                                                                                      | 1435/18079 [00:00<00:03, 4869.79rows/s]
+❌ Insertion stopped at row 1571:
+Row content: {'concept_id': 'C538221381', 'related_concepts_id': 'C29912816', 'score': 128.2234}
+Error: ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+Inserting into concepts_related_concepts:   9%|█████████▋                                                                                                     | 1572/18079 [00:00<00:03, 4689.02rows/s] 
+Inserting into funders_main: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 32437/32437 [01:14<00:00, 432.62rows/s]
+Inserting into funder_alt_titles: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 6769/6769 [00:01<00:00, 3822.59rows/s]
+Inserting into funder_associated_concepts:   0%|                                                                                                                            | 0/5208 [00:00<?, ?rows/s] 
+❌ Insertion stopped at row 21:
+Row content: {'funder_id': 'F4320329468', 'id': 'C185592680', 'score': 100.0}
+Error: ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+Inserting into funder_associated_concepts:   0%|▍                                                                                                                 | 22/5208 [00:00<00:05, 986.71rows/s] 
+Inserting into funder_counts_by_years: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28593/28593 [00:05<00:00, 4861.15rows/s]
+Inserting into funder_extra_roles: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 20828/20828 [00:04<00:00, 5051.86rows/s]
+Inserting into institution_acronyms: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 50723/50723 [00:11<00:00, 4364.82rows/s]
+Inserting into institution_alternatives_names: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████| 76354/76354 [00:18<00:00, 4202.18rows/s]
+Inserting into institution_associated_topics:   0%|                                                                                                                      | 0/1344863 [00:00<?, ?rows/s]
+❌ Insertion stopped at row 0:
+Row content: {'institution_id': 'I4210112092', 'concept_id': 'C61783943', 'score': 50.0}
+Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'concept_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'score'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+Inserting into institution_associated_topics:   0%|                                                                                                           | 1/1344863 [00:00<42:07:05,  8.87rows/s] 
+Inserting into institution_associated_topics_table:   0%|                                                                                                                | 0/1531499 [00:00<?, ?rows/s]
+❌ Insertion stopped at row 0:
+Row content: {'institution_id': 'I4210158480', 'ass_topic_id': 'T10597', 'count': 1}
+Error: ('42S02', "[42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid object name 'institution_associated_topics_table'. (208) (SQLExecDirectW); [42S02] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+Inserting into institution_associated_topics_table:   0%|                                                                                                     | 1/1531499 [00:00<37:23:59, 11.37rows/s] 
+Inserting into institution_counts_by_year: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████| 900359/900359 [08:44<00:00, 1714.98rows/s]
+Inserting into institution_geo_data:   0%|                                                                                                                                 | 0/27626 [00:00<?, ?rows/s]
+❌ Insertion stopped at row 28:
+Row content: {'geonames_city_id': 3128760, 'city': 'Barcelona', 'country_code': 'ES', 'country': 'Spain', 'latitude': 41.38879, 'longitude': 2.15899}
+Error: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Violation of PRIMARY KEY constraint 'PK__institut__E02DFB5ABAF4EFEC'. Cannot insert duplicate key in object 'dbo.institution_geo_data'. The duplicate key value is (3128760). (2627) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+Inserting into institution_geo_data:   0%|                                                                                                                       | 29/27626 [00:00<01:36, 285.66rows/s] 
+Inserting into institution_geo_id:   0%|                                                                                                                                  | 0/114884 [00:00<?, ?rows/s]
+❌ Insertion stopped at row 11:
+Row content: {'institution_id': 'I4399657958', 'geonames_city_id': nan}
+Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 5 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+Inserting into institution_geo_id:   0%|                                                                                                                        | 12/114884 [00:00<06:18, 303.25rows/s] 
+Inserting into institution_institution_roles: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 104746/104746 [01:18<00:00, 1340.77rows/s]
+Inserting into institution_lineage_ids: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 115902/115902 [01:30<00:00, 1273.76rows/s]
+Inserting into institution_main:   6%|███████▋                                                                                                                | 7373/114886 [00:27<04:52, 367.70rows/s]
+❌ Insertion stopped at row 7397:
+Row content: {'institution_id': 'I4210086291', 'ror': 'https://ror.org/000gjv789', 'display_name': 'Dawn Research (United States)', 'country_code': 'US', 'institution_type': 'company', 'homepage_url': 'http://www.dawnresearch.com/', 'works_count': 84, 'cited_by_count': 1376, '2yr_mean_citedness': 101.4, 'h_index': 6, 'i10_index': 5, 'oa_percent': 13.1}
+Error: ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+Inserting into institution_main:   6%|███████▋                                                                                                                | 7398/114886 [00:27<06:46, 264.59rows/s] 
+Inserting into institution_related_institutions: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████| 57341/57341 [00:44<00:00, 1275.04rows/s]
+Inserting into institution_topic_share: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1531499/1531499 [07:34<00:00, 3370.55rows/s]
+Inserting into lookup_domain_data: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:00<00:00, 2537.39rows/s]
+Inserting into lookup_field_data:   0%|                                                                                                                                       | 0/26 [00:00<?, ?rows/s] 
+❌ Insertion stopped at row 0:
+Row content: {'feild_id': 25, 'display_name': 'Materials Science'}
+Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'feild_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+Inserting into lookup_field_data:   4%|████▊                                                                                                                         | 1/26 [00:00<00:00, 498.43rows/s] 
+Inserting into lookup_main: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4516/4516 [00:03<00:00, 1264.51rows/s]
+Inserting into lookup_parent_lookup: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4516/4516 [00:00<00:00, 4709.63rows/s] 
+Inserting into lookup_sibling_topics: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 243006/243006 [00:47<00:00, 5108.44rows/s]
+Inserting into lookup_subfield_data:   0%|                                                                                                                                   | 0/252 [00:00<?, ?rows/s]
+❌ Insertion stopped at row 0:
+Row content: {'subfeild_id': 2505, 'display_name': 'Materials Chemistry'}
+Error: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'subfeild_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+Inserting into lookup_subfield_data:   0%|▍                                                                                                                         | 1/252 [00:00<00:00, 415.77rows/s] 
+Inserting into lookup_topic_keywords: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 45154/45154 [00:10<00:00, 4215.41rows/s]
+Inserting into papers_all_topics: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1125685/1125685 [03:45<00:00, 4992.34rows/s]
+Inserting into papers_author_data: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 566440/566440 [02:12<00:00, 4281.56rows/s]
+C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\src\openalex_etl\load\to_data_warehouse.py:63: DtypeWarning: Columns (1,2,3,4,5) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(csv_path_on_disk)
+Inserting into papers_citation_data:   6%|██████▍                                                                                                           | 25334/452219 [00:05<01:31, 4689.50rows/s]
+❌ Insertion stopped at row 25644:
+Row content: {'paper_id': 'W4390055346', 'citation_percentile': 0.739045, 'is_top_1_percent': 'False', 'citation_count': '7.0', 'field_weighted_citation_impact': '1.697', 'reference_count': '18.0'}   
+Error: ('22018', "[22018] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting the nvarchar value '7.0' to data type int. (245) (SQLExecDirectW)")
+Inserting into papers_citation_data:   6%|██████▍                                                                                                           | 25645/452219 [00:05<01:35, 4470.24rows/s] 
+Inserting into papers_concepts: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5941894/5941894 [17:33<00:00, 5642.02rows/s]
+Inserting into papers_indexed_in:  65%|███████████████████████████████████████████████████████████████████████████▋                                        | 277246/424612 [01:04<00:27, 5285.64rows/s]
+❌ Insertion stopped at row 277492:
+Row content: {'paper_id': '                    Business.|Robert Litterman is executive editor of the Financial Analysts Journal.', 'indexed_in': 'Finance'}
+Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'fin_openalex.dbo.papers_indexed_in', column 'paper_id'. Truncated value: '                    Business.|Robert Lit'. (2628) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+Inserting into papers_indexed_in:  65%|███████████████████████████████████████████████████████████████████████████▊                                        | 277493/424612 [01:04<00:34, 4281.14rows/s] 
+Inserting into papers_keywords: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 715318/715318 [02:33<00:00, 4653.39rows/s]
+C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\src\openalex_etl\load\to_data_warehouse.py:63: DtypeWarning: Columns (7) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(csv_path_on_disk)
+Inserting into papers_main:   0%|                                                                                                                                         | 0/452219 [00:00<?, ?rows/s]
+❌ Insertion stopped at row 0:
+Row content: {'paper_id': 'W1969852690', 'doi': 'https://doi.org/10.1109/uksim.2014.67', 'title': 'Stock Price Prediction Using the ARIMA Model', 'abstract': 'Stock price prediction is an important topic in finance and economics which has spurred the interest of researchers over the years to develop better predictive models. The autoregressive integrated moving average (ARIMA) models have been explored in literature for time series prediction. This paper presents extensive process of building stock price predictive model using the ARIMA model. Published stock data obtained from New York Stock Exchange (NYSE) and Nigeria Stock Exchange (NSE) are used with stock price predictive model developed. Results obtained revealed that the ARIMA model has a strong potential for short-term prediction and can compete favourably with existing techniques for stock price prediction.', 'pub_date': '2014-03-01', 'language': 'en', 'publication_type': 'article', 'num_locations': '2', 'linked_datasets': 'missing_link', 'pubmed_id': 'not_present', 'mag_id': '1969852690.0'}
+Error: ('22018', "[22018] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting the nvarchar value 'missing_link' to data type bit. (245) (SQLExecDirectW)")
+Inserting into papers_main:   0%|                                                                                                                              | 1/452219 [00:00<1:00:33, 124.47rows/s] 
+C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\src\openalex_etl\load\to_data_warehouse.py:63: DtypeWarning: Columns (1) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(csv_path_on_disk)
+Inserting into papers_opensource_access:   2%|██▋                                                                                                           | 11012/452219 [00:05<02:31, 2909.27rows/s]
+❌ Insertion stopped at row 11024:
+Row content: {'paper_id': 'W2073354866', 'is_open_access': 'True', 'oa_status': 'bronze', 'oa_url': 'https://pdfs.journals.lww.com/plasreconsurg/2004/10001/Medicine_in_the_Future__Will_It_Be_a_Worthwhile.15.pdf?token=method|ExpireAbsolute;source|Journals;ttl|1550229691603;payload|mY8D3u1TCCsNvP5E421JYK6N6XICDamxByyYpaNzk7FKjTaa1Yz22MivkHZqjGP4kdS2v0J76WGAnHACH69s21Csk0OpQi3YbjEMdSoz2UhVybFqQxA7lKwSUlA502zQZr96TQRwhVlocEp/sJ586aVbcBFlltKNKo+tbuMfL73hiPqJliudqs17cHeLcLbV/CqjlP3IO0jGHlHQtJWcICDdAyGJMnpi6RlbEJaRheGeh5z5uvqz3FLHgPKVXJzdrUcpUxhdxBktUap0yA66NLDkj7yG+pD1Vx2mHZd2qZKy41VBnX/DW+xSpsRsHdVa;hash|xPr5OxEA625GR4fKeWu5Nw==', 'best_oa_source_id': 'S100736837', 'is_best_oa': True, 'best_oa_landing_page': 'https://doi.org/10.1097/00006534-200410001-00015', 'best_oa_pdf_url': 'https://pdfs.journals.lww.com/plasreconsurg/2004/10001/Medicine_in_the_Future__Will_It_Be_a_Worthwhile.15.pdf?token=method|ExpireAbsolute;source|Journals;ttl|1550229691603;payload|mY8D3u1TCCsNvP5E421JYK6N6XICDamxByyYpaNzk7FKjTaa1Yz22MivkHZqjGP4kdS2v0J76WGAnHACH69s21Csk0OpQi3YbjEMdSoz2UhVybFqQxA7lKwSUlA502zQZr96TQRwhVlocEp/sJ586aVbcBFlltKNKo+tbuMfL73hiPqJliudqs17cHeLcLbV/CqjlP3IO0jGHlHQtJWcICDdAyGJMnpi6RlbEJaRheGeh5z5uvqz3FLHgPKVXJzdrUcpUxhdxBktUap0yA66NLDkj7yG+pD1Vx2mHZd2qZKy41VBnX/DW+xSpsRsHdVa;hash|xPr5OxEA625GR4fKeWu5Nw==', 'best_oa_license': 'unlicensed', 'best_oa_is_published': True}
+Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'fin_openalex.dbo.papers_opensource_access', column 'oa_url'. Truncated value: 'https://pdfs.journals.lww.com/plasreconsurg/2004/10001/Medicine_in_the_Future__Will_It_Be_a_Worthwhi'. (2628) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+Inserting into papers_opensource_access:   2%|██▋                                                                                                           | 11025/452219 [00:05<03:34, 2059.45rows/s] 
+Inserting into papers_paper_author: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1030387/1030387 [03:44<00:00, 4591.17rows/s]
+Inserting into papers_paper_availability:   8%|████████▍                                                                                                    | 47933/620830 [00:18<03:20, 2853.30rows/s]
+❌ Insertion stopped at row 48080:
+Row content: {'paper_id': 'W2955152124', 'location_source_id': 'S202381698', 'location_is_oa': True, 'location_landing_page': 'https://doi.org/10.1371/journal.pone.0219138', 'location_pdf_url': 'https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0219138/1/pone.0219138.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210222%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210222T064325Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=87241420858e7370612b85e6c85d392b33b3523a32946c666f5bd744e9eff247327e589750d9be486f29753b055dff197cd45819250602a5ee61b0dd55290113abf163f9bddee74fed0461fee2323ff150899436f64f6a9e53411aa97354bd5f5d10d0b973a623c0fdc53aa340cdbc384d187398a8d93aadf24ac97cbe4c4586899b2ff198aa05874f4076f26fc1094464f251af95426056fec05291f6688f697abbd0fed6907fad5830fd5d6602d0d010631dbb44a4f2c06e8b9ba36071d4c239be9f6ece8c880f5d625cd0794481b79ca4368b0f02aa47514abb07620afe9cf76115752bf75b41f27bb9706b47b65e49d5c3f6a1607685a686f33a3edafcc8', 'location_license': 'cc-by', 'location_is_published': True}
+Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'fin_openalex.dbo.papers_paper_availability', column 'location_pdf_url'. Truncated value: 'https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0219138/1/pone.0219138.pdf?X-Go'. (2628) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+Inserting into papers_paper_availability:   8%|████████▍                                                                                                    | 48081/620830 [00:19<03:46, 2524.67rows/s] 
+C:\Users\gowth\Documents\rag_datasets\Openalex_dataprocessing\ETL_pipeline\src\openalex_etl\load\to_data_warehouse.py:63: DtypeWarning: Columns (2,6,9) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(csv_path_on_disk)
+Inserting into papers_publication_data:   2%|██▎                                                                                                             | 9498/452219 [00:05<03:50, 1917.15rows/s]
+❌ Insertion stopped at row 9653:
+Row content: {'paper_id': 'W4406334409', 'primary_source_id': 'S4386621915', 'is_oa_primary': 'False', 'primary_landing_page': 'https://doi.org/10.53391/mmnsa.1577228', 'primary_pdf_url': 'missing_pdf', 'primary_license': 'no_license', 'primary_is_published': 'False', 'volume': '4', 'issue': "5-Special Issue: ICAME'24", 'apc_usd': '0'}
+Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'fin_openalex.dbo.papers_publication_data', column 'issue'. Truncated value: '5-Special Issue: ICA'. (2628) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+Inserting into papers_publication_data:   2%|██▍                                                                                                             | 9654/452219 [00:05<04:16, 1727.61rows/s] 
+Inserting into papers_reference_ids:  67%|██████████████████████████████████████████████████████████████████████████▍                                    | 5577557/8315147 [21:39<11:34, 3944.09rows/s]
+❌ Insertion stopped at row 5577951:
+Row content: {'paper_id': '                    Business.|Robert Litterman is executive editor of the Financial Analysts Journal.', 'reference_ids': 'False'}
+Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'fin_openalex.dbo.papers_reference_ids', column 'paper_id'. Truncated value: '                    Business.|Robert Lit'. (2628) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+Inserting into papers_reference_ids:  67%|██████████████████████████████████████████████████████████████████████████▍                                    | 5577952/8315147 [21:39<10:37, 4292.72rows/s] 
+Inserting into papers_related_work_ids:  63%|████████████████████████████████████████████████████████████████████▍                                       | 3106480/4898977 [13:57<13:35, 2198.12rows/s]
+❌ Insertion stopped at row 3106554:
+Row content: {'paper_id': '                    Business.|Robert Litterman is executive editor of the Financial Analysts Journal.', 'related_work_ids': 'faj.v68.n6.1'}
+Error: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]String or binary data would be truncated in table 'fin_openalex.dbo.papers_related_work_ids', column 'paper_id'. Truncated value: '                    Business.|Robert Lit'. (2628) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+Inserting into papers_related_work_ids:  63%|████████████████████████████████████████████████████████████████████▍                                       | 3106555/4898977 [13:57<08:03, 3708.30rows/s] 
+Inserting into papers_topics_data:   0%|▎                                                                                                                    | 1316/452219 [00:00<01:38, 4568.00rows/s]
+❌ Insertion stopped at row 1718:
+Row content: {'paper_id': 'W3115388936', 'primary_topic_id': None, 'primary_topic_score': nan}
+Error: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 6 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+Inserting into papers_topics_data:   0%|▍                                                                                                                    | 1719/452219 [00:00<01:41, 4426.64rows/s] 
+Inserting into sources_alternate_titles: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████| 86968/86968 [00:27<00:00, 3162.91rows/s]
+Inserting into sources_associated_concepts:   0%|                                                                                                            | 1/2550548 [00:00<126:56:46,  5.58rows/s]
+❌ Insertion stopped at row 30:
+Row content: {'source_id': 'S4210200583', 'concept_id': 'C71924100', 'level': 0, 'score': 150.5}
+Error: ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
