@@ -2,6 +2,62 @@
 
 This project provides a modular and scalable ETL (Extract, Transform, Load) pipeline for processing large-scale scholarly metadata from the OpenAlex dataset. The pipeline handles the complete data processing flow — from raw CSV ingestion to clean, validated, and relational-ready database inserts.
 
+## 🧱 Architecture Diagram  
+[Click here to view Architecture Diagram](https://your-architecture-image-link.com)
+
+
+```directory
+my_etl_pipeline/
+│
+├── .gitignore                      # Specifies files for Git to ignore (e.g., secrets, data files)
+├── README.md                       # High-level project overview, setup, and usage instructions
+├── pyproject.toml                  # Modern Python project metadata and dependency management (or requirements.txt)
+│
+├── config/
+│   ├── base.yml                    # Base configuration shared across all environments
+│   ├── development.yml             # Settings specific to the development environment
+│   └── private_config.yml              # Settings specific to the production environment
+│
+├── data/                           # (Often in .gitignore) For local test data, sample files
+│   ├── raw/
+│   └── processed/
+│
+├── docs/
+│   ├── architecture.md             # Diagram and explanation of the pipeline architecture
+│   └── data_dictionary.md          # Description of data sources, schemas, and fields
+│
+├── notebooks/
+│   └── 01_exploratory_analysis.ipynb # Jupyter notebooks for analysis, not for production code
+│
+├── scripts/
+│   ├── run_pipeline.sh             # A shell script to execute the entire pipeline
+│   └── setup.sh                    # Script for initial environment setup
+│
+├── src/
+│   ├── my_etl_pipeline/
+│   │   ├── __init__.py
+│   │   │
+│   │   ├── extract/
+│   │   │   ├── __init__.py
+│   │   │   └── from_source_api.py      # Module to extract data from a specific API
+│   │   │
+│   │   ├── transform/
+│   │   │   ├── __init__.py
+|   |   |   └── Base_transformer.py     # Base class and all utils for transformation present inside it
+│   │   │   └── clean_user_data.py      # Module for data cleaning and transformation logic
+│   │   │
+│   │   ├── load/
+│   │   │   ├── __init__.py
+│   │   │   └── to_data_warehouse.py    # Module to load data into the destination
+│   │   │
+│   │   ├── common/ or utils/
+│   │   │   ├── __init__.py
+│   │   │   └── helpers.py              # Shared functions (e.g., logging, config loading)
+│   │   │
+│   │   └── main.py                     # Main entry point to run the pipeline
+```
+
+
 ## 🚀 Features
 
 ✅ Chunked Reading for Large Files: Reads large OpenAlex CSVs in memory-efficient chunks.
@@ -65,6 +121,9 @@ This project provides a modular and scalable ETL (Extract, Transform, Load) pipe
   * Converts empty strings and NaNs to `NULL` to save space.
   * Uses SQL Server’s native data types to align with Python conversions.
   * Indexes and constraints are enforced **after loading**, avoiding overhead during insert.
+
+## 🧠 Logical ER Diagram  
+[Click here to view Logical ER Diagram](https://your-er-diagram-link.com)
 
 ---
 ## ⚙️ Technologies Used
