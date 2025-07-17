@@ -2,9 +2,10 @@
 
 This project provides a modular and scalable ETL (Extract, Transform, Load) pipeline for processing large-scale scholarly metadata from the OpenAlex dataset. The pipeline handles the complete data processing flow — from raw CSV ingestion to clean, validated, and relational-ready database inserts.
 
-## 🧱 Architecture Diagram  
-[Click here to view Architecture Diagram](https://your-architecture-image-link.com)
+### 🏗️ Architecture Diagram
+![Architecture](https://github.com/Gowtham-AI25/etl_pipeline/blob/main/docs/diagram-export-17-7-2025-10_29_03-pm.png)
 
+## Project directory
 
 ```directory
 my_etl_pipeline/
@@ -122,8 +123,8 @@ my_etl_pipeline/
   * Uses SQL Server’s native data types to align with Python conversions.
   * Indexes and constraints are enforced **after loading**, avoiding overhead during insert.
 
-## 🧠 Logical ER Diagram  
-[Click here to view Logical ER Diagram](https://your-er-diagram-link.com)
+### 📘 Logical ER Diagram
+![ER Diagram](https://github.com/Gowtham-AI25/etl_pipeline/blob/main/docs/Openalex_Finance_papers_database.png)
 
 ---
 ## ⚙️ Technologies Used
