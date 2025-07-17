@@ -1,8 +1,8 @@
-#📚 OpenAlex ETL Pipeline
+# 📚 OpenAlex ETL Pipeline
 
 This project provides a modular and scalable ETL (Extract, Transform, Load) pipeline for processing large-scale scholarly metadata from the OpenAlex dataset. The pipeline handles the complete data processing flow — from raw CSV ingestion to clean, validated, and relational-ready database inserts.
 
-##🚀 Features
+## 🚀 Features
 
 ✅ Chunked Reading for Large Files: Reads large OpenAlex CSVs in memory-efficient chunks.
 
