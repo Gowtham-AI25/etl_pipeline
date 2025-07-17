@@ -1,4 +1,3 @@
-Here is an in-depth description you can use in your `architecture.md` file, explaining each component of the **OpenAlex ETL pipeline architecture diagram** you provided:
 
 ---
 
